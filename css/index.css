@@ -549,6 +549,7 @@ iframe {
     .cardContainer div {
         margin: 0;
         text-align: left;
+        font-size: 1rem;
     }
     
     div .tinyLogo i {
@@ -627,8 +628,8 @@ iframe {
     .cardContainer div {
         margin: 0;
         text-align: left;
+        font-size: 1rem;
     }
-    
     div .tinyLogo i {
         padding:0;
         margin-bottom: 10px;
